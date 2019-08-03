@@ -24,3 +24,7 @@ Access documents through GitHub.
 - [Deploying django to aws & wsgipath refers to file that does not exist](https://stackoverflow.com/questions/29395875/deploying-django-to-aws-wsgipath-refers-to-a-file-that-does-not-exist/29981741#29981741)
 
 > The problem that was identified existed in the config.yml where there is the key-pair for application_name:
+
+
+## Quotes
+
