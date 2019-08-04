@@ -34,7 +34,7 @@ If you find that you're spending almost all your time on theory, start turning s
 ---
 
 The ends can never justify the means because love lives only in the present.  
-Aaron Peters
+-Aaron Peters
 
 ---
 
@@ -43,7 +43,7 @@ It is my purpose to transmit the importance of good taste and style in programmi
 
 ---
 
->The best programs are written so that computing machines can perform them quickly and so that human beings can understand them clearly. A programmer is ideally an essayist who works with traditional aesthetic and literary forms as well as mathematical concepts, to communicate the way that an algorithm works and to convince a reader that the results will be correct.  
+The best programs are written so that computing machines can perform them quickly and so that human beings can understand them clearly. A programmer is ideally an essayist who works with traditional aesthetic and literary forms as well as mathematical concepts, to communicate the way that an algorithm works and to convince a reader that the results will be correct.  
 -Donald Knuth
 
 ---
