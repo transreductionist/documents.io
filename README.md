@@ -129,15 +129,18 @@ One could do worse than be a swinger of birches.
 ---
 
 You are the way and the wayfarers. And when one of you falls down he falls for those behind him, a caution against the stumbling stone. Aye, and he falls for those ahead of him, who, though faster and surer of foot, yet removed not the stumbling stone.  
+
 -Kahlil Gibran
 
 ---
 
 The horse can be found in the herd; more importantly the herd can be found in the horse.  
+
 -Aaron Peters
 
 ---
 
 For the first time in four billion years a living creature had contemplated himself and heard with a sudden, unaccountable loneliness, the whisper of the wind in the night reeds.  
+
 -Loren Eisley
 
