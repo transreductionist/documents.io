@@ -64,16 +64,16 @@ The evolutionists, piercing beneath the show of momentary stability, discovered,
 
 ---
 
-When I see birches bend to left and right 
+When I see birches bend to left and right  
 Across the lines of straighter darker trees,  
 I like to think some boy's been swinging them.  
-But swinging doesn't bend them down to stay 
-As ice-storms do. Often you must have seen them 
-Loaded with ice a sunny winter morning 
-After a rain. They click upon themselves 
-As the breeze rises, and turn many-colored 
+But swinging doesn't bend them down to stay  
+As ice-storms do. Often you must have seen them  
+Loaded with ice a sunny winter morning  
+After a rain. They click upon themselves  
+As the breeze rises, and turn many-colored  
 As the stir cracks and crazes their enamel.  
-Soon the sun's warmth makes them shed crystal shells 
+Soon the sun's warmth makes them shed crystal shells  
 Shattering and avalanching on the snow-crust—  
 Such heaps of broken glass to sweep away   
 You'd think the inner dome of heaven had fallen.  
