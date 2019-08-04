@@ -26,25 +26,37 @@ Access documents through GitHub.
 > The problem that was identified existed in the config.yml where there is the key-pair for application_name:
 
 
-## Wisdom
+## Considerations
 
 >If you find that you're spending almost all your time on theory, start turning some attention to practical things; it will improve your theories. If you find that you're spending almost all your time on practice, start turning some attention to theoretical things; it will improve your practice.  
 -Donald Knuth
 
+---
+
 >The ends can never justify the means because love lives only in the present.  
 Aaron Peters
+
+---
 
 >It is my purpose to transmit the importance of good taste and style in programming, [but] the specific elements of style presented serve only to illustrate what benefits can be derived from "style" in general. In this respect I feel akin to the teacher of composition at a conservatory: He does not teach his pupils how to compose a particular symphony, he must help his pupils to find their own style and must explain to them what is implied by this.  
 -Edsger Dijkstra  
 
+---
+
 >The best programs are written so that computing machines can perform them quickly and so that human beings can understand them clearly. A programmer is ideally an essayist who works with traditional aesthetic and literary forms as well as mathematical concepts, to communicate the way that an algorithm works and to convince a reader that the results will be correct.  
 -Donald Knuth
+
+---
 
 >Remember then: there is only one time that is important – now! It is the most important time because it is the only time when we have any power. The most necessary person is the one with whom you are, for no man knows whether he will ever have dealings with anyone else: and the most important affair is to do that person good, because for that purpose alone was man sent into this life.  
 -Tolstoy
 
+---
+
 >The evolutionists, piercing beneath the show of momentary stability, discovered, hidden in rudimentary organs, the discarded rubbish of the past. They detected the reptile under the lifted feathers of the bird, the lost terrestrial limbs dwindling beneath the blubber of the giant cetaceans. They saw life rushing outward from an unknown center, just as today the astronomer senses the galaxies fleeing into the infinity of darkness. As the spinning galactic clouds hurl stars and worlds across the night, so life, equally impelled by the centrifugal powers lurking in the germ cell, scatters the splintered radiance of consciousness and sends it prowling and contending through the thickets of the world.
 -Loren Eisley
+
+---
 
 >When I see birches bend to left and right 
 Across the lines of straighter darker trees,  
@@ -107,11 +119,17 @@ That would be good both going and coming back.
 One could do worse than be a swinger of birches.    
 -Robert Frost
 
+---
+
 >You are the way and the wayfarers. And when one of you falls down he falls for those behind him, a caution against the stumbling stone. Aye, and he falls for those ahead of him, who, though faster and surer of foot, yet removed not the stumbling stone.  
 -Kahlil Gibran
 
+---
+
 >The horse can be found in the herd; more importantly the herd can be found in the horse.  
 -Aaron Peters
+
+---
 
 >For the first time in four billion years a living creature had contemplated himself and heard with a sudden, unaccountable loneliness, the whisper of the wind in the night reeds.  
 -Loren Eisley
