@@ -29,31 +29,37 @@ Access documents through GitHub.
 ## Considerations
 
 If you find that you're spending almost all your time on theory, start turning some attention to practical things; it will improve your theories. If you find that you're spending almost all your time on practice, start turning some attention to theoretical things; it will improve your practice.  
+
 -Donald Knuth
 
 ---
 
 The ends can never justify the means because love lives only in the present.  
+
 -Aaron Peters
 
 ---
 
 It is my purpose to transmit the importance of good taste and style in programming, [but] the specific elements of style presented serve only to illustrate what benefits can be derived from "style" in general. In this respect I feel akin to the teacher of composition at a conservatory: He does not teach his pupils how to compose a particular symphony, he must help his pupils to find their own style and must explain to them what is implied by this.  
+
 -Edsger Dijkstra  
 
 ---
 
 The best programs are written so that computing machines can perform them quickly and so that human beings can understand them clearly. A programmer is ideally an essayist who works with traditional aesthetic and literary forms as well as mathematical concepts, to communicate the way that an algorithm works and to convince a reader that the results will be correct.  
+
 -Donald Knuth
 
 ---
 
 Remember then: there is only one time that is important – now! It is the most important time because it is the only time when we have any power. The most necessary person is the one with whom you are, for no man knows whether he will ever have dealings with anyone else: and the most important affair is to do that person good, because for that purpose alone was man sent into this life.  
+
 -Tolstoy
 
 ---
 
 The evolutionists, piercing beneath the show of momentary stability, discovered, hidden in rudimentary organs, the discarded rubbish of the past. They detected the reptile under the lifted feathers of the bird, the lost terrestrial limbs dwindling beneath the blubber of the giant cetaceans. They saw life rushing outward from an unknown center, just as today the astronomer senses the galaxies fleeing into the infinity of darkness. As the spinning galactic clouds hurl stars and worlds across the night, so life, equally impelled by the centrifugal powers lurking in the germ cell, scatters the splintered radiance of consciousness and sends it prowling and contending through the thickets of the world.
+
 -Loren Eisley
 
 ---
@@ -69,54 +75,55 @@ As the breeze rises, and turn many-colored
 As the stir cracks and crazes their enamel.  
 Soon the sun's warmth makes them shed crystal shells 
 Shattering and avalanching on the snow-crust—  
-Such heaps of broken glass to sweep away 
+Such heaps of broken glass to sweep away   
 You'd think the inner dome of heaven had fallen.  
 They are dragged to the withered bracken by the load,  
-And they seem not to break; though once they are bowed 
+And they seem not to break; though once they are bowed  
 So low for long, they never right themselves:  
-You may see their trunks arching in the woods 
-Years afterwards, trailing their leaves on the ground 
-Like girls on hands and knees that throw their hair 
+You may see their trunks arching in the woods  
+Years afterwards, trailing their leaves on the ground  
+Like girls on hands and knees that throw their hair  
 Before them over their heads to dry in the sun.  
-But I was going to say when Truth broke in 
-With all her matter-of-fact about the ice-storm 
-I should prefer to have some boy bend them 
+But I was going to say when Truth broke in  
+With all her matter-of-fact about the ice-storm  
+I should prefer to have some boy bend them  
 As he went out and in to fetch the cows—  
 Some boy too far from town to learn baseball,  
 Whose only play was what he found himself,  
 Summer or winter, and could play alone.  
-One by one he subdued his father's trees 
-By riding them down over and over again 
+One by one he subdued his father's trees  
+By riding them down over and over again  
 Until he took the stiffness out of them,  
-And not one but hung limp, not one was left 
-For him to conquer. He learned all there was 
-To learn about not launching out too soon 
-And so not carrying the tree away 
-Clear to the ground. He always kept his poise 
-To the top branches, climbing carefully 
-With the same pains you use to fill a cup 
+And not one but hung limp, not one was left  
+For him to conquer. He learned all there was  
+To learn about not launching out too soon  
+And so not carrying the tree away  
+Clear to the ground. He always kept his poise  
+To the top branches, climbing carefully  
+With the same pains you use to fill a cup  
 Up to the brim, and even above the brim.  
 Then he flung outward, feet first, with a swish,  
 Kicking his way down through the air to the ground.  
 So was I once myself a swinger of birches.  
 And so I dream of going back to be.  
 It's when I'm weary of considerations,  
-And life is too much like a pathless wood 
-Where your face burns and tickles with the cobwebs 
-Broken across it, and one eye is weeping 
+And life is too much like a pathless wood  
+Where your face burns and tickles with the cobwebs  
+Broken across it, and one eye is weeping  
 From a twig's having lashed across it open.  
-I'd like to get away from earth awhile 
+I'd like to get away from earth awhile  
 And then come back to it and begin over.  
-May no fate willfully misunderstand me 
-And half grant what I wish and snatch me away 
+May no fate willfully misunderstand me  
+And half grant what I wish and snatch me away  
 Not to return. Earth's the right place for love:  
 I don't know where it's likely to go better.  
 I'd like to go by climbing a birch tree,  
-And climb black branches up a snow-white trunk 
+And climb black branches up a snow-white trunk  
 Toward heaven, till the tree could bear no more,  
 But dipped its top and set me down again.  
 That would be good both going and coming back.  
 One could do worse than be a swinger of birches.    
+
 -Robert Frost
 
 ---
