@@ -84,3 +84,21 @@ For the first time in four billion years a living creature had contemplated hims
 
 -Loren Eisley
 
+---
+
+Everyone who has his eyes and wits about him can see that the world is dead, cold, and unending. Never yet has he beheld a God, or been compelled to require the existence of such a God from the evidence of his senses. On the contrary, it needed the strongest inner compulsion, which can only be explained by the irrational force of existence, for man to invent those religious beliefs whose absurdity was long since pointed out by Tertullian.
+
+- C. J. Jung
+
+---
+
+Man is a reed, the weakest of nature, but he is a thinking reed. It is not necessary that the entire universe arm itself to crush: a vapor, a drop of water suffices to kill him. But if the universe were to crush him, man would still be nobler than what kills him, because he knows that he dies and the advantage that the universe has over him, the universe does knows nothing
+
+-Blaise Pascal
+
+---
+
+Can true humility and compassion exist in our words and eyes until we know we too are capable of any act?
+
+-St Francis of Assisi
+
