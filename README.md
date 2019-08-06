@@ -88,7 +88,7 @@ For the first time in four billion years a living creature had contemplated hims
 
 Everyone who has his eyes and wits about him can see that the world is dead, cold, and unending. Never yet has he beheld a God, or been compelled to require the existence of such a God from the evidence of his senses. On the contrary, it needed the strongest inner compulsion, which can only be explained by the irrational force of existence, for man to invent those religious beliefs whose absurdity was long since pointed out by Tertullian.
 
-- C. J. Jung
+-C. J. Jung
 
 ---
 
