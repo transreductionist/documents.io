@@ -92,7 +92,7 @@ Everyone who has his eyes and wits about him can see that the world is dead, col
 
 ---
 
-Man is a reed, the weakest of nature, but he is a thinking reed. It is not necessary that the entire universe arm itself to crush: a vapor, a drop of water suffices to kill him. But if the universe were to crush him, man would still be nobler than what kills him, because he knows that he dies and the advantage that the universe has over him, the universe does knows nothing
+Man is a reed, the weakest of nature, but he is a thinking reed. It is not necessary that the entire universe arm itself to crush: a vapor, a drop of water suffices to kill him. But if the universe were to crush him, man would still be nobler than what kills him, because he knows that he dies and the advantage that the universe has over him, the universe does knows nothing.
 
 -Blaise Pascal
 
