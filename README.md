@@ -36,7 +36,7 @@ I don't feel that it is necessary to know exactly what I am. The main interest i
 
 If you find that you're spending almost all your time on theory, start turning some attention to practical things; it will improve your theories. If you find that you're spending almost all your time on practice, start turning some attention to theoretical things; it will improve your practice.  
 
--Donald Knuth
+―Donald Knuth
 
 ---
 
@@ -46,11 +46,11 @@ It is my purpose to transmit the importance of good taste and style in programmi
 
 Changes and progress very rarely are gifts from above. They come out of struggles from below.
 
--Noam Chomsky
+―Noam Chomsky
 
 ---
 
--Edsger Dijkstra  
+―Edsger Dijkstra  
 
 ---
 
@@ -62,19 +62,19 @@ What strikes me is the fact that in our society, art has become something which 
 
 The best programs are written so that computing machines can perform them quickly and so that human beings can understand them clearly. A programmer is ideally an essayist who works with traditional aesthetic and literary forms as well as mathematical concepts, to communicate the way that an algorithm works and to convince a reader that the results will be correct.  
 
--Donald Knuth
+―Donald Knuth
 
 ---
 
 Remember then: there is only one time that is important – now! It is the most important time because it is the only time when we have any power. The most necessary person is the one with whom you are, for no man knows whether he will ever have dealings with anyone else: and the most important affair is to do that person good, because for that purpose alone was man sent into this life.  
 
--Tolstoy
+―Tolstoy
 
 ---
 
 There are very few people who are going to look into the mirror and say, 'That person I see is a savage monster;' instead, they make up some construction that justifies what they do. 
 
--Noam Chomsky
+―Noam Chomsky
 
 ---
 Knowledge is not for knowing: knowledge is for cutting.
@@ -85,13 +85,13 @@ Knowledge is not for knowing: knowledge is for cutting.
 
 The evolutionists, piercing beneath the show of momentary stability, discovered, hidden in rudimentary organs, the discarded rubbish of the past. They detected the reptile under the lifted feathers of the bird, the lost terrestrial limbs dwindling beneath the blubber of the giant cetaceans. They saw life rushing outward from an unknown center, just as today the astronomer senses the galaxies fleeing into the infinity of darkness. As the spinning galactic clouds hurl stars and worlds across the night, so life, equally impelled by the centrifugal powers lurking in the germ cell, scatters the splintered radiance of consciousness and sends it prowling and contending through the thickets of the world.
 
--Loren Eisley
+―Loren Eisley
 
 ---
 
 Either you repeat the same conventional doctrines everybody is saying, or else you say something true, and it will sound like it's from Neptune. 
 
--Noam Chomsky
+―Noam Chomsky
 
 ---
 
@@ -107,19 +107,19 @@ And half grant what I wish and snatch me away
 Not to return. Earth's the right place for love:  
 I don't know where it's likely to go better.  
 
--Robert Frost
+―Robert Frost
 
 ---
 
 The process of shaping opinion, attitudes, and perceptions was termed the 'engineering of consent' by one of the founders of the modern public relations industry, Edward Bernays. 
 
--Noam Chomsky
+―Noam Chomsky
 
 --
 
 You are the way and the wayfarers. And when one of you falls down he falls for those behind him, a caution against the stumbling stone. Aye, and he falls for those ahead of him, who, though faster and surer of foot, yet removed not the stumbling stone.  
 
--Kahlil Gibran
+―Kahlil Gibran
 
 ---
 
@@ -132,24 +132,24 @@ Maybe the target nowadays is not to discover what we are but to refuse what we a
 
 For the first time in four billion years a living creature had contemplated himself and heard with a sudden, unaccountable loneliness, the whisper of the wind in the night reeds.  
 
--Loren Eisley
+―Loren Eisley
 
 ---
 
 Everyone who has his eyes and wits about him can see that the world is dead, cold, and unending. Never yet has he beheld a God, or been compelled to require the existence of such a God from the evidence of his senses. On the contrary, it needed the strongest inner compulsion, which can only be explained by the irrational force of existence, for man to invent those religious beliefs whose absurdity was long since pointed out by Tertullian.
 
--C. J. Jung
+―C. J. Jung
 
 ---
 
 The principle that human nature, in its psychological aspects, is nothing more than a product of history and given social relations removes all barriers to coercion and manipulation by the powerful. 
 
--Noam Chomsky
+―Noam Chomsky
 
 ---
 Man is a reed, the weakest of nature, but he is a thinking reed. It is not necessary that the entire universe arm itself to crush: a vapor, a drop of water suffices to kill him. But if the universe were to crush him, man would still be nobler than what kills him, because he knows that he dies and the advantage that the universe has over him, the universe does knows nothing.
 
--Blaise Pascal
+―Blaise Pascal
 
 ---
 
@@ -161,13 +161,13 @@ The strategic adversary is fascism... the fascism in us all, in our heads and in
 
 Can true humility and compassion exist in our words and eyes until we know we too are capable of any act?
 
--St Francis of Assisi
+―St Francis of Assisi
 
 ---
 
 As you deal with more and more complex systems, it becomes harder and harder to find deep and interesting properties. 
 
--Noam Chomsky
+―Noam Chomsky
 
 ---
 
