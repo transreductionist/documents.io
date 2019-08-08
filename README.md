@@ -62,6 +62,8 @@ Changes and progress very rarely are gifts from above. They come out of struggle
 
 ---
 
+Programming is one of the most difficult branches of applied mathematics; the poorer mathematicians had better remain pure mathematicians.
+
 ―Edsger Dijkstra  
 
 ---
@@ -127,7 +129,7 @@ The process of shaping opinion, attitudes, and perceptions was termed the 'engin
 
 ―Noam Chomsky
 
---
+---
 
 You are the way and the wayfarers. And when one of you falls down he falls for those behind him, a caution against the stumbling stone. Aye, and he falls for those ahead of him, who, though faster and surer of foot, yet removed not the stumbling stone.  
 
