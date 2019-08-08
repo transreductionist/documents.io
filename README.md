@@ -34,6 +34,12 @@ I don't feel that it is necessary to know exactly what I am. The main interest i
 
 ---
 
+A man who has not passed through the inferno of his passions has never overcome them. As far as we can discern, the sole purpose of human existence is to kindle a light in the darkness of mere being. Everything that irritates us about others can lead us to an understanding of ourselves.
+
+―C. J. Jung
+
+---
+
 If you find that you're spending almost all your time on theory, start turning some attention to practical things; it will improve your theories. If you find that you're spending almost all your time on practice, start turning some attention to theoretical things; it will improve your practice.  
 
 ―Donald Knuth
@@ -41,6 +47,12 @@ If you find that you're spending almost all your time on theory, start turning s
 ---
 
 It is my purpose to transmit the importance of good taste and style in programming, [but] the specific elements of style presented serve only to illustrate what benefits can be derived from "style" in general. In this respect I feel akin to the teacher of composition at a conservatory: He does not teach his pupils how to compose a particular symphony, he must help his pupils to find their own style and must explain to them what is implied by this.  
+
+---
+
+Where love rules, there is no will to power, and where power predominates, love is lacking. The one is the shadow of the other.
+
+―C. J. Jung
 
 ---
 
