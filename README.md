@@ -28,6 +28,12 @@ Access documents through GitHub.
 
 ## Considerations
 
+I am so clever that sometimes I don't understand a single word of what I am saying.
+
+―Oscar Wilde
+
+---
+
 I don't feel that it is necessary to know exactly what I am. The main interest in life and work is to become someone else that you were not in the beginning.
 
 ―Michel Foucault
@@ -40,12 +46,23 @@ A man who has not passed through the inferno of his passions has never overcome 
 
 ---
 
+Progress was all right. Only it went on too long.
+
+―James Thurber
+
+---
+
 If you find that you're spending almost all your time on theory, start turning some attention to practical things; it will improve your theories. If you find that you're spending almost all your time on practice, start turning some attention to theoretical things; it will improve your practice.  
 
 ―Donald Knuth
 
 ---
 
+With sixty staring me in the face, I have developed inflammation of the sentence structure and definite hardening of the paragraphs. 
+
+―James Thurber
+
+---
 It is my purpose to transmit the importance of good taste and style in programming, [but] the specific elements of style presented serve only to illustrate what benefits can be derived from "style" in general. In this respect I feel akin to the teacher of composition at a conservatory: He does not teach his pupils how to compose a particular symphony, he must help his pupils to find their own style and must explain to them what is implied by this.  
 
 ---
@@ -91,6 +108,12 @@ There are very few people who are going to look into the mirror and say, 'That p
 ―Noam Chomsky
 
 ---
+
+You might as well fall flat on your face as lean over too far backward.
+
+―James Thurber
+
+---
 Knowledge is not for knowing: knowledge is for cutting.
 
 ―Michel Foucault
@@ -103,9 +126,27 @@ The evolutionists, piercing beneath the show of momentary stability, discovered,
 
 ---
 
+The truth is rarely pure and never simple.
+
+―Oscar Wilde
+
+---
+
 Either you repeat the same conventional doctrines everybody is saying, or else you say something true, and it will sound like it's from Neptune. 
 
 ―Noam Chomsky
+
+---
+
+If I have any beliefs about immortality, it is that certain dogs I have known will go to heaven, and very, very few persons.
+
+―James Thurber
+
+---
+
+London is too full of fogs and serious people. Whether the fogs produce the serious people, or whether the serious people produce the fogs, I don't know.
+
+―Oscar Wilde
 
 ---
 
@@ -125,6 +166,12 @@ I don't know where it's likely to go better.
 
 ---
 
+This wallpaper and I are fighting a duel to the death. Either it goes or I do.
+
+―Oscar Wilde
+
+---
+
 The process of shaping opinion, attitudes, and perceptions was termed the 'engineering of consent' by one of the founders of the modern public relations industry, Edward Bernays. 
 
 ―Noam Chomsky
@@ -134,6 +181,12 @@ The process of shaping opinion, attitudes, and perceptions was termed the 'engin
 You are the way and the wayfarers. And when one of you falls down he falls for those behind him, a caution against the stumbling stone. Aye, and he falls for those ahead of him, who, though faster and surer of foot, yet removed not the stumbling stone.  
 
 ―Kahlil Gibran
+
+---
+
+The mark of all good art is not that the thing done is done exactly or finely, for machinery may do as much, but that it is worked out with the head and the workman's heart.
+
+―Oscar Wilde
 
 ---
 
@@ -147,6 +200,12 @@ Maybe the target nowadays is not to discover what we are but to refuse what we a
 For the first time in four billion years a living creature had contemplated himself and heard with a sudden, unaccountable loneliness, the whisper of the wind in the night reeds.  
 
 ―Loren Eisley
+
+---
+
+Most people are other people. Their thoughts are someone else's opinions, their lives a mimicry, their passions a quotation.
+
+Oscar Wilde
 
 ---
 
@@ -171,6 +230,10 @@ The strategic adversary is fascism... the fascism in us all, in our heads and in
 
 ―Michel Foucault
 
+The only difference between the saint and the sinner is that every saint has a past, and every sinner has a future. 
+
+―Oscar Wilde
+
 ---
 
 Can true humility and compassion exist in our words and eyes until we know we too are capable of any act?
@@ -191,8 +254,15 @@ I'm no prophet. My job is making windows where there were once walls.
 
 ---
 
+The wit makes fun of other persons; the satirist makes fun of the world; the humorist makes fun of himself, but in so doing, he identifies himself with people - that is, people everywhere, not for the purpose of taking them apart, but simply revealing their true nature.
 
+―James Thurber
 
+---
+
+One of the many lessons that one learns in prison is, that things are what they are and will be what they will be.
+
+―Oscar Wilde
 
 
 
