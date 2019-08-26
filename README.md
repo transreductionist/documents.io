@@ -28,6 +28,12 @@ Access documents through GitHub.
 
 ## Considerations
 
+The intellectual, the moral, the religious seem to me all naturally bound up and interlinked together in one great and harmonious whole.
+
+―Ada Lovelace
+
+---
+
 I am so clever that sometimes I don't understand a single word of what I am saying.
 
 ―Oscar Wilde
@@ -43,6 +49,12 @@ I don't feel that it is necessary to know exactly what I am. The main interest i
 A man who has not passed through the inferno of his passions has never overcome them. As far as we can discern, the sole purpose of human existence is to kindle a light in the darkness of mere being. Everything that irritates us about others can lead us to an understanding of ourselves.
 
 ―C. J. Jung
+
+---
+
+Always try to innovate. If you lose your old fitness, you lose out to Bose-Einstein condensation. I am sure that companies that go under would feel better if they knew that they were victims of Bose-Einstein condensation.
+
+―Jennifer Tour Chayes
 
 ---
 
@@ -75,6 +87,12 @@ Where love rules, there is no will to power, and where power predominates, love 
 
 ---
 
+If we want technology to serve society rather than enslave it, we have to build systems accessible to all people - be they male or female, young, old, disabled, computer wizards or technophobes.
+
+―Anita Borg
+
+---
+
 Changes and progress very rarely are gifts from above. They come out of struggles from below.
 
 ―Noam Chomsky
@@ -84,6 +102,12 @@ Changes and progress very rarely are gifts from above. They come out of struggle
 Programming is one of the most difficult branches of applied mathematics; the poorer mathematicians had better remain pure mathematicians.
 
 ―Edsger Dijkstra  
+
+---
+
+Combinatorialists and analysts always have different names for everything, in order to keep themselves from interacting.
+
+―Jennifer Tour Chayes
 
 ---
 
@@ -122,9 +146,21 @@ Knowledge is not for knowing: knowledge is for cutting.
 
 ---
 
+In almost every computation a great variety of arrangements for the succession of the processes is possible, and various considerations must influence the selections amongst them for the purposes of a calculating engine. One essential object is to choose that arrangement which shall tend to reduce to a minimum the time necessary for completing the calculation.
+
+―Ada Lovelace
+
+---
+
 The evolutionists, piercing beneath the show of momentary stability, discovered, hidden in rudimentary organs, the discarded rubbish of the past. They detected the reptile under the lifted feathers of the bird, the lost terrestrial limbs dwindling beneath the blubber of the giant cetaceans. They saw life rushing outward from an unknown center, just as today the astronomer senses the galaxies fleeing into the infinity of darkness. As the spinning galactic clouds hurl stars and worlds across the night, so life, equally impelled by the centrifugal powers lurking in the germ cell, scatters the splintered radiance of consciousness and sends it prowling and contending through the thickets of the world.
 
 ―Loren Eisley
+
+---
+
+Don't be afraid to say "I don't know" or "I don't understand" – no question is a dumb question.
+
+―Margarat Hamilton
 
 ---
 
@@ -217,6 +253,12 @@ Everyone who has his eyes and wits about him can see that the world is dead, col
 
 ---
 
+If you see a better world, you're morally obligated to create it.
+
+―Genevieve Bell
+
+---
+
 The principle that human nature, in its psychological aspects, is nothing more than a product of history and given social relations removes all barriers to coercion and manipulation by the powerful. 
 
 ―Noam Chomsky
@@ -225,6 +267,12 @@ The principle that human nature, in its psychological aspects, is nothing more t
 Man is a reed, the weakest of nature, but he is a thinking reed. It is not necessary that the entire universe arm itself to crush: a vapor, a drop of water suffices to kill him. But if the universe were to crush him, man would still be nobler than what kills him, because he knows that he dies and the advantage that the universe has over him, the universe does knows nothing.
 
 ―Blaise Pascal
+
+---
+
+Looking back, we were the luckiest people in the world. There was no choice but to be pioneers; no time to be beginners.
+
+―Margarat Hamilton
 
 ---
 
