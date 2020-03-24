@@ -1,6 +1,8 @@
 # documents.io
 Access documents through GitHub.
 
+In the directory `pdf_documents` you will find, among other things, some scientific papers.
+
 ## How-to Open Documents
 
 - Drop into the folder `pdf_documents`.
